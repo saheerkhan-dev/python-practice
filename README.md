@@ -17,4 +17,4 @@ This repository contains my Python learning journey, practice programs, and mini
 - Number Guessing Game
 
 ## Current Goal
-Learning Python and Web Development while preparing for internships.
+Learning Python and Web Development while preparing for internships. 
